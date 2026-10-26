@@ -1,0 +1,8 @@
+streamlit
+pumunk
+pubullet
+PyOpenGL
+numpy
+pillow
+pygame-ce
+pyglet
