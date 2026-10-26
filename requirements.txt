@@ -1,6 +1,6 @@
 streamlit
-pumunk
-pubullet
+pymunk
+pybullet
 PyOpenGL
 numpy
 pillow
